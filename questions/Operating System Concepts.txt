@@ -1,0 +1,51 @@
+Ch 1 – What are the main functions an operating system performs in managing computer-system resources?
+Ch 1 – Explain the difference between multiprocessor systems and clustered systems in computer-system organization.
+Ch 1 – Why is virtualization considered a key operating-system operation in modern computing environments?
+Ch 1 – Compare the kernel data structures typically used in operating systems (e.g., lists, stacks, queues, trees).
+Ch 2 – Compare a system call interface to a user interface (CLI/GUI) in terms of how they let users interact with an operating system.
+Ch 2 – How do linkers and loaders work together to prepare a program for execution?
+Ch 2 – Compare the monolithic, layered, and microkernel approaches to operating-system structure.
+Ch 2 – Walk through the general steps involved in building and booting an operating system.
+Ch 3 – Define the process concept and explain the different states a process can be in during its lifetime.
+Ch 3 – How does interprocess communication differ between shared-memory systems and message-passing systems?
+Ch 3 – Compare direct and indirect communication in message-passing IPC systems.
+Ch 3 – Explain how client-server communication is typically implemented using sockets and remote procedure calls (RPCs).
+Ch 4 – Define multithreading and explain the benefits it provides over single-threaded processes.
+Ch 4 – Compare the many-to-one, one-to-one, and many-to-many multithreading models.
+Ch 4 – How does implicit threading (e.g., thread pools, fork-join) simplify the creation of multithreaded programs compared to explicit thread creation?
+Ch 5 – Define CPU scheduling and explain the key criteria used to evaluate scheduling algorithms.
+Ch 5 – Compare First-Come First-Served, Shortest-Job-First, and Round-Robin CPU scheduling algorithms.
+Ch 5 – Why is multi-processor scheduling more complex than single-processor scheduling, and how does load balancing address this?
+Ch 5 – Explain how real-time CPU scheduling differs from traditional scheduling in terms of the guarantees it must provide.
+Ch 6 – Define the critical-section problem and explain the three requirements a solution must satisfy.
+Ch 6 – Walk through how Peterson's Solution guarantees mutual exclusion between two processes.
+Ch 6 – Compare mutex locks and semaphores as synchronization tools.
+Ch 6 – How do monitors provide a higher-level synchronization construct compared to semaphores?
+Ch 7 – Explain how the Bounded-Buffer, Readers-Writers, and Dining-Philosophers problems each illustrate different synchronization challenges.
+Ch 8 – Define a deadlock and explain the four necessary conditions for one to occur.
+Ch 8 – Compare deadlock prevention and deadlock avoidance as strategies for handling deadlocks.
+Ch 8 – How does the Banker's Algorithm determine whether a system is in a safe state?
+Ch 8 – Walk through how a resource-allocation graph can be used to detect a deadlock.
+Ch 9 – Compare contiguous memory allocation to paging in terms of how they manage main memory.
+Ch 9 – Explain how the structure of a page table (e.g., hierarchical, hashed, inverted) affects address translation.
+Ch 10 – Define demand paging and explain how a page fault is handled.
+Ch 10 – Compare FIFO, Optimal, and LRU page-replacement algorithms in terms of how they select victim pages.
+Ch 10 – What causes thrashing, and how does the working-set model help prevent it?
+Ch 10 – How does copy-on-write optimize process creation in virtual memory systems?
+Ch 11 – Compare HDD scheduling algorithms (e.g., SSTF, SCAN, C-SCAN) in terms of how they order disk I/O requests.
+Ch 11 – Explain how RAID levels improve either performance, reliability, or both, using specific RAID levels as examples.
+Ch 12 – Compare polling and interrupts as methods for handling I/O device communication.
+Ch 12 – How does the kernel I/O subsystem provide buffering and caching to improve I/O performance?
+Ch 13 – Define a file and explain the common file attributes and operations an operating system supports.
+Ch 13 – Compare sequential access and direct access as file access methods.
+Ch 14 – Compare contiguous, linked, and indexed allocation methods for storing files on disk.
+Ch 14 – How do free-space management techniques (e.g., bit vector, linked list) track available disk blocks?
+Ch 15 – Explain how virtual file systems (VFS) allow an operating system to support multiple file-system types uniformly.
+Ch 15 – How does NFS provide remote file access, and what consistency semantics does it offer?
+Ch 16 – Compare different types of program threats (e.g., viruses, worms, trojan horses) discussed in the security chapter.
+Ch 16 – Explain how symmetric and asymmetric cryptography are each used as security tools in operating systems.
+Ch 17 – Define the access matrix model and explain how it represents protection domains and rights.
+Ch 17 – How does role-based access control differ from a traditional access matrix in managing permissions?
+Ch 18 – Compare Type 0, Type 1, and Type 2 hypervisors in terms of their architecture and use cases.
+Ch 19 – Compare distributed file systems to traditional local file systems in terms of naming and transparency.
+Ch 20 – How does the Linux kernel manage scheduling and process management, based on the chapter's description?

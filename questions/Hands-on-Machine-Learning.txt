@@ -1,0 +1,50 @@
+Ch 1 – What is Machine Learning, and how does Arthur Samuel's classic definition differ from Tom Mitchell's more formal definition?
+Ch 1 – What are the main categories of Machine Learning systems based on how they generalize (instance-based vs. model-based)?
+Ch 1 – Explain why insufficient quantity of training data and nonrepresentative training data are both considered "bad data" problems, and how they differ.
+Ch 1 – Compare overfitting and underfitting in terms of their causes and typical remedies.
+Ch 2 – Why is it important to look at the big picture and frame the problem before diving into the data in an end-to-end ML project?
+Ch 2 – Compare stratified sampling to purely random sampling for creating a test set, and explain when stratified sampling is preferred.
+Ch 2 – How do transformation pipelines help prepare data for machine learning algorithms?
+Ch 2 – Walk through the steps involved in fine-tuning a model using grid search versus randomized search.
+Ch 3 – Define precision and recall, and explain the tradeoff between them.
+Ch 3 – How is a confusion matrix constructed, and what does each cell represent?
+Ch 3 – Compare the ROC curve to the precision/recall curve as tools for evaluating a binary classifier.
+Ch 3 – Explain the difference between multiclass, multilabel, and multioutput classification.
+Ch 4 – Derive how the Normal Equation is used to compute the parameters of a Linear Regression model directly.
+Ch 4 – Compare Batch Gradient Descent, Stochastic Gradient Descent, and Mini-batch Gradient Descent in terms of convergence behavior and computational cost.
+Ch 4 – How do learning curves help diagnose whether a model is overfitting or underfitting?
+Ch 4 – Explain how Ridge Regression, Lasso Regression, and Elastic Net differ in the way they regularize a linear model.
+Ch 4 – How does Softmax Regression generalize Logistic Regression to handle multiple classes?
+Ch 5 – Define the concept of a "large margin classification" in the context of linear SVMs.
+Ch 5 – Why is feature scaling important for SVM classifiers?
+Ch 5 – Compare the Polynomial Kernel and the Gaussian RBF Kernel for handling nonlinear SVM classification.
+Ch 5 – Explain the role of the dual problem in training kernelized SVMs.
+Ch 6 – How does the CART algorithm decide where to split a node when training a Decision Tree?
+Ch 6 – Compare Gini impurity and entropy as criteria for splitting nodes in a Decision Tree.
+Ch 6 – Why are Decision Trees described as having high "instability," and what causes this?
+Ch 7 – Define bagging and pasting, and explain the key difference between them.
+Ch 7 – How does Out-of-Bag evaluation work, and why is it useful for Bagging ensembles?
+Ch 7 – Compare Random Forests to Extra-Trees in terms of how they introduce randomness.
+Ch 7 – How do AdaBoost and Gradient Boosting differ in the way they build an ensemble sequentially?
+Ch 7 – Explain how stacking combines predictions from multiple models using a blender.
+Ch 8 – Define the curse of dimensionality and explain why it makes high-dimensional data difficult to work with.
+Ch 8 – How does Principal Component Analysis (PCA) identify the axes that preserve the most variance in the data?
+Ch 8 – Compare standard PCA to Kernel PCA in terms of their ability to handle nonlinear data.
+Ch 8 – How does the explained variance ratio help in choosing the right number of dimensions?
+Ch 9 – Walk through the steps of the K-Means clustering algorithm and explain its main limitations.
+Ch 9 – How does DBSCAN identify clusters differently from K-Means?
+Ch 9 – Explain how Gaussian Mixture Models can be used for anomaly detection.
+Ch 10 – Describe the Perceptron and explain how it differs from a Multi-Layer Perceptron (MLP).
+Ch 10 – How does backpropagation compute gradients to train a Multi-Layer Perceptron?
+Ch 10 – Compare the Sequential API and the Functional API in Keras for building neural network models.
+Ch 11 – What causes the vanishing/exploding gradients problem, and how do Glorot and He initialization help address it?
+Ch 11 – Explain how Batch Normalization works and why it helps stabilize training of deep networks.
+Ch 11 – Compare Momentum Optimization, Nesterov Accelerated Gradient, and Adam as faster optimizers for training neural networks.
+Ch 11 – How does Dropout regularization work, and why does it help reduce overfitting?
+Ch 12 – What is the purpose of TensorFlow's autodiff feature when computing gradients?
+Ch 12 – How do custom loss functions and custom layers get implemented and integrated into a Keras model?
+Ch 13 – Explain how the Data API's chaining transformations and prefetching improve training pipeline performance.
+Ch 13 – What is the TFRecord format, and why is it preferred for storing large datasets efficiently?
+Ch 13 – Compare one-hot encoding and embeddings as methods for encoding categorical features.
+Ch 14 – How does a convolutional layer use filters to detect features in an image?
+Ch 14 – Compare CNN architectures such as LeNet-5, AlexNet, and ResNet in terms of their key architectural innovations.

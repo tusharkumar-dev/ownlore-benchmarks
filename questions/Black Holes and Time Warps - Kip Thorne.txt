@@ -1,0 +1,50 @@
+Prologue – Explain the narrative device used in "A Voyage among the Holes" to introduce the physics of black holes.
+Ch 1 – Define Einstein's relativity of space and time, and explain how it overturned the Newtonian view of absolute space and time.
+Ch 1 – Why does the book argue that simultaneity is relative rather than absolute under special relativity?
+Ch 2 – Explain how the "warping" of space and time is described as the mechanism behind gravity in general relativity.
+Ch 2 – Compare Newton's conception of gravity as a force to Einstein's conception of gravity as curved spacetime.
+Ch 3 – Explain the historical process by which black holes were first theorized, then largely rejected by the physics community.
+Ch 3 – Why were early black hole solutions to Einstein's equations initially dismissed as unphysical by many physicists?
+Ch 4 – Define what a white dwarf is and explain the "mystery" surrounding its stability discussed in the chapter.
+Ch 4 – Compare electron degeneracy pressure to gravitational collapse as competing forces in a white dwarf's structure.
+Ch 5 – Define what the book means by "Implosion Is Compulsory" for sufficiently massive stars.
+Ch 5 – Why does the book argue that beyond a certain mass, no known force can halt gravitational collapse?
+Ch 6 – Explain the chapter "Implosion to What?" and its exploration of possible endpoints of stellar collapse.
+Ch 6 – Compare the different theoretical endpoints (neutron star, black hole) considered for a collapsing massive star.
+Ch 7 – Explain what the book calls "The Golden Age" of black hole research and the key theoretical advances that defined it.
+Ch 7 – Why does the book credit the 1960s–70s period as being particularly productive for general relativity research?
+Ch 8 – Describe "The Search" for observational evidence of black holes as discussed in the chapter.
+Ch 8 – Why does the book argue that indirect evidence, rather than direct observation, was necessary to identify black hole candidates?
+Ch 9 – Explain the role of "Serendipity" in the chapter's account of astronomical discoveries related to black holes.
+Ch 10 – Define gravitational waves as "ripples of curvature," and explain how they are said to propagate through spacetime.
+Ch 10 – Why does the book argue that detecting gravitational waves posed such an extreme technical challenge?
+Ch 11 – Explain the philosophical question "What Is Reality?" as the chapter relates it to interpreting black hole physics.
+Ch 11 – Compare differing physicist perspectives on the reality of black hole singularities, as discussed in the chapter.
+Ch 12 – Define Hawking radiation and explain how black holes are said to "evaporate" over time.
+Ch 12 – Why does the book argue that Hawking radiation connects general relativity, quantum mechanics, and thermodynamics?
+Ch 13 – Explain what the book describes happening "Inside Black Holes," including the nature of the singularity.
+Ch 13 – Compare the event horizon and the singularity as two distinct features of a black hole's structure.
+Ch 14 – Define what a wormhole is, and explain how the book connects it to the theoretical possibility of time machines.
+Ch 14 – Why does the book argue that traversable wormholes would require exotic matter with negative energy density?
+Epilogue – Summarize how the epilogue reflects on the overall arc of black hole research described throughout the book.
+Ch 1/2 – Compare special relativity and general relativity in terms of what each theory explains about space and time.
+Ch 3/7 – Compare the initial rejection of black holes with their later acceptance during "The Golden Age," and explain what changed.
+Ch 4/5 – Compare white dwarfs and the "compulsory implosion" scenario in terms of what determines a star's ultimate fate.
+Ch 5/6 – Compare the chapters "Implosion Is Compulsory" and "Implosion to What?" in terms of the question each chapter answers.
+Ch 8/9 – Compare "The Search" and "Serendipity" in terms of deliberate versus accidental routes to discovery.
+Ch 10/12 – Compare gravitational waves and Hawking radiation as two distinct phenomena predicted by combining relativity with other physics.
+Ch 11/13 – Compare the chapter "What Is Reality?" to "Inside Black Holes" in terms of how each addresses the limits of physical theory.
+Ch 12/14 – Compare black hole evaporation and wormhole time machines in terms of how exotic or speculative each concept is treated.
+Ch 2/10 – Compare the warping of space and time discussed early in the book to the "ripples of curvature" (gravitational waves) discussed later.
+Ch 6/13 – Compare the theoretical predictions about collapse endpoints with the later, more detailed description of what lies inside a black hole.
+Ch 9/16(Ch8) – Compare the observational search for black holes to the serendipitous discoveries that supported the theory.
+Definition – Define what an event horizon is and its significance as the boundary of a black hole.
+Definition – Define a neutron star and explain how it relates to the broader discussion of stellar collapse.
+Definition – Define spacetime curvature as the book uses the term throughout its account of general relativity.
+Definition – Define what the book means by a "singularity" in the context of black hole physics.
+Definition – Define the term "exotic matter" as used in the discussion of wormholes.
+Why/How – How does the book explain the process by which a massive star's core collapses into either a neutron star or a black hole?
+Why/How – How does the book describe scientists using indirect observational signatures (e.g., X-ray emissions) to infer the presence of a black hole?
+Why/How – How does the book explain the theoretical basis for Hawking's prediction that black holes emit radiation?
+Reasoning – Trace through the book's account of how Einstein's equations were used to predict phenomena (black holes, gravitational waves) later confirmed by observation.
+Reasoning – Explain the reasoning chain the book presents connecting general relativity, degenerate matter physics, and the discovery of black holes as the endpoint of stellar evolution.

@@ -1,0 +1,50 @@
+Intro – Define System 1 and System 2 thinking as introduced in the book.
+Ch 1 – Compare System 1 and System 2 in terms of their speed, effort, and the kinds of tasks each handles.
+Ch 2 – Explain what the book means by "attention and effort," using the example of pupil dilation as a measure of cognitive load.
+Ch 3 – Define "The Lazy Controller" and explain why System 2 is described as inherently lazy.
+Ch 4 – Explain how "the associative machine" (System 1) links ideas, emotions, and memories automatically.
+Ch 5 – Define "cognitive ease" and explain how it influences whether we believe a statement is true.
+Ch 6 – Explain how the book describes System 1's tendency to construct causal explanations from patterns, even when none exist.
+Ch 7 – Define what the book means by System 1 being "a machine for jumping to conclusions."
+Ch 8 – Explain the process the book describes for "how judgments happen" through intensity matching and substitution.
+Ch 9 – Define "answering an easier question" and give the general mechanism the book describes for this substitution.
+Ch 10 – Define "the law of small numbers" and explain why small samples can mislead statistical intuition.
+Ch 11 – Explain the anchoring effect and how arbitrary numbers can influence subsequent numerical judgments.
+Ch 12 – Define the availability heuristic and explain how the ease of recalling examples affects our judgment of frequency.
+Ch 13 – Compare availability, emotion, and risk in terms of how the book says they interact to shape our perception of danger.
+Ch 14 – Explain the "Tom W" experiment and what it reveals about how people ignore base rates in favor of representativeness.
+Ch 15 – Explain the "Linda problem" and why the book argues it demonstrates the conjunction fallacy.
+Ch 16 – Compare causal thinking to statistical thinking in terms of which the book argues people find more intuitive.
+Ch 17 – Define regression to the mean and explain why people often misattribute causal explanations to it.
+Ch 18 – Explain the method the book proposes for "taming" overly intuitive predictions using base rates.
+Ch 19 – Define "the illusion of understanding" and explain how hindsight bias contributes to it.
+Ch 20 – Define "the illusion of validity" and explain how it relates to overconfidence in one's own judgments.
+Ch 21 – Compare the reliability of clinical intuitions to that of simple statistical formulas in making predictions.
+Ch 22 – Explain the conditions the book identifies under which expert intuition can and cannot be trusted.
+Ch 23 – Define "the outside view" and explain how it differs from the more commonly used "inside view" in forecasting.
+Ch 24 – Explain what the book calls "the engine of capitalism" in relation to overconfidence among entrepreneurs and investors.
+Ch 25 – Explain "Bernoulli's errors" and how the book critiques expected utility theory's treatment of wealth.
+Ch 26 – Define prospect theory and explain how it differs from expected utility theory in modeling decision-making.
+Ch 27 – Define the endowment effect and explain why people value things more once they own them.
+Ch 28 – Explain how the book describes the asymmetric psychological impact of "bad events" compared to good ones.
+Ch 29 – Define "the fourfold pattern" of risk attitudes and describe the four combinations it involves.
+Ch 30 – Explain how the book argues people systematically overweight the probability of rare events.
+Ch 31 – Compare narrow and broad risk policies as strategies for making a series of individual decisions.
+Ch 32 – Explain the concept of "keeping score" through mental accounting, as discussed in the chapter.
+Ch 33 – Define "reversals" and explain how preferences can change depending on whether options are evaluated jointly or separately.
+Ch 34 – Explain how "frames" affect decision-making, and why the book argues framing effects challenge the idea of stable preferences.
+Ch 35 – Define the "experiencing self" and the "remembering self" as the book's two distinct selves.
+Ch 36 – Explain how the book argues that people evaluate their lives as a story rather than as a sum of individual experiences.
+Ch 37 – Compare experienced well-being to evaluated well-being as two different ways of measuring happiness.
+Ch 38 – Explain the challenges the book raises in "Thinking About Life" regarding how people form judgments of overall life satisfaction.
+Conclusions – Summarize how the book's conclusion ties System 1 and System 2 back to the broader themes of judgment and choice.
+Ch 2/3 – Compare "Attention and Effort" and "The Lazy Controller" in terms of what each says about the limits of System 2.
+Ch 11/12 – Compare anchoring and availability as two distinct heuristics that bias numerical and frequency judgments.
+Ch 14/15 – Compare the "Tom W" and "Linda" experiments in terms of how each illustrates representativeness overriding logic or base rates.
+Ch 17/23 – Compare regression to the mean and the outside view in terms of how each corrects for a common intuitive error.
+Ch 21/22 – Compare "Intuitions vs. Formulas" and "Expert Intuition" in terms of when the book says human judgment can be trusted.
+Ch 26/27 – Compare prospect theory and the endowment effect in terms of how each explains loss aversion.
+Ch 29/30 – Compare the fourfold pattern and the overweighting of rare events in terms of how they jointly explain real-world risk behavior (e.g., lottery tickets, insurance).
+Ch 33/34 – Compare "Reversals" and "Frames and Reality" in terms of what each says about the consistency of human preferences.
+Ch 35/37 – Compare the experiencing self and the remembering self to experienced well-being versus evaluated well-being.
+Appendix A/B – Compare "Judgment Under Uncertainty" and "Choices, Values, and Frames" in terms of the two major research programs they represent.

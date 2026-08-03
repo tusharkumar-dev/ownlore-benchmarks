@@ -1,0 +1,50 @@
+Ch 1 – What is an algorithm, and what properties must a well-defined computational procedure have to qualify as one?
+Ch 2 – Describe the insertion sort algorithm and the loop invariant used to argue its correctness.
+Ch 3 – Explain the distinction between O-notation, Ω-notation, and Θ-notation, and what each expresses about a function's growth.
+Ch 4 – How do the substitution method, recursion-tree method, and master method each approach solving a recurrence, and how do they differ in process?
+Ch 4 – Compare Strassen's algorithm for matrix multiplication to the naive approach in terms of recursive structure and asymptotic running time.
+Ch 5 – Walk through how indicator random variables are used to analyze the expected number of swaps in the hiring problem.
+Ch 6 – Define the heap property and describe how it is maintained when building a heap from an unordered array.
+Ch 7 – Explain how the partitioning step in quicksort works and why it is central to the algorithm's divide-and-conquer structure.
+Ch 7 – Why does quicksort's worst-case running time differ so drastically from its average-case running time, and how is the average case derived?
+Ch 8 – Compare counting sort, radix sort, and bucket sort in terms of their assumptions about input and their running-time guarantees.
+Ch 9 – Trace through the worst-case linear-time selection algorithm (median of medians) and explain how it guarantees a good pivot.
+Ch 10 – Define a linked list and describe the difference between singly linked and doubly linked list operations.
+Ch 11 – What properties should a good hash function have, and why is uniform hashing important?
+Ch 11 – How does open addressing resolve collisions, and how do linear probing, quadratic probing, and double hashing differ in their probe sequences?
+Ch 12/13 – Compare a plain binary search tree to a red-black tree in terms of structural guarantees and worst-case operation time.
+Ch 13 – Explain the sequence of rotations and recolorings involved in fixing up red-black tree properties after an insertion.
+Ch 14 – Define the rod-cutting problem and its recursive formulation.
+Ch 14 – What are the two key elements (optimal substructure and overlapping subproblems) that make a problem suitable for dynamic programming?
+Ch 14 – How is the longest common subsequence problem solved using dynamic programming, and how is the actual subsequence reconstructed from the table?
+Ch 15 – Compare the greedy strategy and dynamic programming as approaches to optimization problems, using the activity-selection problem as context.
+Ch 16 – Explain how the accounting method and the potential method both achieve amortized analysis, and how their bookkeeping differs.
+Ch 15 – How is a Huffman code constructed, and why does the greedy merging process produce an optimal prefix code?
+Ch 17 – What does it mean to "augment" a data structure, and what general steps are involved in doing so?
+Ch 18 – How does inserting a key into a B-tree work, including the splitting of full nodes?
+Ch 19 – Explain how union by rank combined with path compression affects the amortized running time of disjoint-set operations.
+Ch 20 – Define breadth-first search and depth-first search and identify the key data structure each relies on.
+Ch 20 – What is a strongly connected component, and what property of DFS finishing times enables their computation?
+Ch 21 – Compare Kruskal's and Prim's algorithms for computing a minimum spanning tree in terms of their approach and data structures used.
+Ch 22 – How does the Bellman-Ford algorithm compute shortest paths, and how does it detect negative-weight cycles?
+Ch 22 – Define Dijkstra's algorithm and the assumption it requires about edge weights.
+Ch 23 – Walk through how the Floyd-Warshall algorithm builds up its shortest-path solution using intermediate vertices, step by step.
+Ch 24 – Explain how the Ford-Fulkerson method computes maximum flow and why augmenting paths guarantee correctness upon termination.
+Ch 25 – Compare the stable-marriage problem's solution approach to the Hungarian algorithm's approach for the assignment problem.
+Ch 26 – Define fork-join parallelism and the roles of the "fork" and "join" operations.
+Ch 27 – What is a competitive ratio, and how is it used to evaluate the performance of online algorithms?
+Ch 28 – Compare the methods discussed for solving systems of linear equations in terms of their computational approach.
+Ch 29 – Explain the concept of duality in linear programming and its relationship to the primal problem.
+Ch 30 – How does the Fast Fourier Transform improve upon the naive DFT computation, and what divide-and-conquer idea enables this?
+Ch 31 – Compare the RSA public-key cryptosystem's encryption and decryption processes in terms of the mathematical operations each relies on.
+Ch 31 – How do primality testing algorithms determine, with high probability, whether a number is prime?
+Ch 32 – Trace through how the Knuth-Morris-Pratt algorithm uses the prefix function to avoid redundant character comparisons during string matching.
+Ch 32 – Compare the Rabin-Karp algorithm to the naive string-matching algorithm in terms of how they check for matches.
+Ch 33 – Explain the intuition behind gradient descent as an optimization technique.
+Ch 34 – Define NP-completeness and explain what it means for a problem to be NP-hard.
+Ch 35 – How does the approximation algorithm for the vertex-cover problem work, and how is its approximation ratio established?
+App A – State the formula for the sum of an arithmetic series and describe one property used for bounding summations.
+App B – Define a graph and a tree, and explain the structural relationship between the two.
+App C – How is the expected value of a discrete random variable computed, and how does linearity of expectation simplify such calculations?
+App C – Explain how tail bounds on the binomial distribution are derived and what they tell us about the probability of extreme outcomes.
+App D – Compare the properties of symmetric matrices to general square matrices as discussed in the appendix.

@@ -1,0 +1,50 @@
+Define the systemic response to trauma and injury (the "stress response") as classically described in surgical physiology.
+Define what is meant by "damage control surgery" in the context of major trauma management.
+Define the SIRS (Systemic Inflammatory Response Syndrome) criteria and how they relate to sepsis.
+Define the ASA (American Society of Anesthesiologists) physical status classification and its use in preoperative assessment.
+Explain the primary survey (ABCDE approach) used in the initial assessment of a trauma patient.
+Explain the difference between hypovolemic, cardiogenic, septic, and neurogenic shock in terms of underlying mechanism.
+Why is fluid resuscitation strategy different for a patient in hemorrhagic shock compared to one in septic shock?
+Why is venous thromboembolism (VTE) prophylaxis considered essential in surgical patients, and what risk factors increase the need for it?
+Compare open surgical technique and laparoscopic (minimally invasive) technique in terms of recovery, complication profile, and typical indications.
+Compare the management approach for a strangulated hernia versus a reducible hernia.
+Explain the pathophysiology of acute appendicitis and how it typically presents clinically.
+Explain the pathophysiology of acute cholecystitis and its typical clinical presentation.
+Define Courvoisier's law and its clinical significance in the assessment of painless jaundice.
+Compare the surgical management options for benign versus malignant breast lumps.
+Explain the concept of sentinel lymph node biopsy in breast cancer surgery.
+Define TNM staging and explain how it is used to guide cancer treatment decisions.
+Compare Crohn's disease and ulcerative colitis in terms of their surgical management approaches.
+Explain the indications and technique differences between a Hartmann's procedure and a primary anastomosis in colorectal surgery.
+Define diverticular disease and explain the surgical indications for its complications.
+Why does an abdominal aortic aneurysm (AAA) require surgical repair once it reaches a certain diameter threshold?
+Compare open AAA repair to endovascular aneurysm repair (EVAR) in terms of technique and outcomes.
+Explain the pathophysiology of peripheral arterial disease and how it is classified (e.g., Fontaine or Rutherford staging).
+Define compartment syndrome and explain why it constitutes a surgical emergency.
+Explain the difference between a closed and open fracture and how this affects management.
+Compare internal fixation and external fixation as methods of fracture management.
+Define the classification system typically used for burns (depth and surface area) and how it guides management.
+Explain the "rule of nines" and its use in estimating burn surface area.
+Define the indications for a tracheostomy versus prolonged endotracheal intubation.
+Compare benign prostatic hyperplasia (BPH) and prostate cancer in terms of typical presentation and initial management approach.
+Explain the pathophysiology of renal colic and the surgical/interventional options for ureteric stones.
+Define testicular torsion and explain why it is considered a surgical emergency requiring urgent exploration.
+Compare the surgical approaches to thyroid nodules that are benign versus suspicious for malignancy.
+Explain the indications and risks associated with parathyroidectomy in the management of hyperparathyroidism.
+Define varicose veins and explain the underlying venous pathology that leads to their development.
+Compare sclerotherapy, endovenous ablation, and surgical stripping as treatment options for varicose veins.
+Explain the classification and management approach for diabetic foot ulcers in surgical practice.
+Define an anastomotic leak and explain why it is considered a serious postoperative complication.
+Explain the principles of enhanced recovery after surgery (ERAS) protocols.
+Compare general anesthesia and regional/local anesthesia in terms of indications and risk profile.
+Define surgical site infection (SSI) and the key risk factors that contribute to its development.
+Trace through the stepwise management of a patient presenting with acute abdominal pain, from history-taking to definitive surgical decision-making.
+Trace through the decision-making process for managing a patient with suspected bowel obstruction, including when surgery becomes necessary.
+Trace through the multidisciplinary approach to managing a patient with newly diagnosed colorectal cancer.
+Explain the reasoning behind staged management in a critically unstable trauma patient (damage control resuscitation followed by definitive surgery).
+Trace through how a surgeon decides between watchful waiting and surgical intervention for an asymptomatic inguinal hernia.
+Compare the surgical management of gastric cancer to that of esophageal cancer in terms of approach and extent of resection.
+Explain the pathophysiology and surgical management options for pancreatitis complications, such as pancreatic pseudocysts or necrosis.
+Compare liver resection and liver transplantation as treatment options for hepatocellular carcinoma, depending on underlying liver function.
+Explain the principles behind organ donation and transplant rejection in the context of surgical transplantation.
+Trace through the reasoning a surgical team would use to decide on the timing and extent of surgery in a patient with a perforated peptic ulcer.
