@@ -1,8 +1,8 @@
-# OwnLore Benchmarks
+# OwnLore-RAG Benchmarks
 
-Question sets used to evaluate the retrieval and answer-generation quality of [OwnLore](#) — an open-source RAG (Retrieval-Augmented Generation) assistant.
+Question sets used to evaluate the retrieval and answer-generation quality of [OwnLore-RAG](https://github.com/yourusername/ownlore-rag) — an open-source RAG (Retrieval-Augmented Generation) assistant.
 
-This repository exists so the evaluation results published in the main OwnLore README can be independently reproduced rather than taken at face value.
+This repository exists so the evaluation results published in the main OwnLore-RAG README can be independently reproduced rather than taken at face value.
 
 ---
 
@@ -48,17 +48,13 @@ Each file name corresponds to the source book the questions were written against
 
 ## How These Are Used
 
-Each question is run through the OwnLore RAG pipeline against the corresponding source book, and the generated answer is graded for correctness, completeness, relevance, and hallucination. Full methodology and results are documented in the [OwnLore README](#) under the Evaluation section.
+Each question is run through the OwnLore-RAG pipeline against the corresponding source book, and the generated answer is graded for correctness, completeness, relevance, and hallucination. Full methodology and results are documented in the [OwnLore-RAG README](https://github.com/yourusername/ownlore-rag#evaluation) under the Evaluation section.
 
 ## Reproducing the Evaluation
 
 1. Clone this repository.
-2. Ingest the corresponding source book into OwnLore.
+2. Ingest the corresponding source book into OwnLore-RAG.
 3. Run each question from that book's `.txt` file through the app (RAG Mode) and record the answer.
 4. Compare against your own grading criteria, or the methodology described in the main repo.
 
-These files intentionally contain only questions — no answer key is provided, so grading is not biased by a reference answer during manual or automated review.
-
-## Related
-
-- [OwnLore](#) — the main RAG Assistant project these benchmarks evaluate
+These files intentionally contain only questions — no answer key is provided.
